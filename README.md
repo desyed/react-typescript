@@ -1,6 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## React app with typescript redux redux-thunk
+### Component: Dynamic select (single and multiple)
+
+
+### Available Scripts
+Install dependencies: In the project directory, you can run:
+
+### `yarn`
 
 In the project directory, you can run:
 
